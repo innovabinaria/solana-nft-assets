@@ -1,0 +1,19 @@
+{
+  "name": "Mi Primer NFT en Solana",
+  "symbol": "VIK",
+  "description": "Mi primer NFT de prueba en Solana devnet creado con Metaplex Umi.",
+  "image": "https://raw.githubusercontent.com/<tu-usuario>/<tu-repo>/main/mi-primer-nft.png",
+  "attributes": [
+    { "trait_type": "Autor", "value": "Victor" },
+    { "trait_type": "Network", "value": "Devnet" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/<tu-usuario>/<tu-repo>/main/mi-primer-nft.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
